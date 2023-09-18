@@ -5,7 +5,7 @@ This is a [Tahskr](https://github.com/Dullage/tahskr-server) widget for [WinWidg
 ![image](https://github.com/mufaka/TahskrWinWidget/assets/8632538/275bb463-0105-465e-ac08-8e31e315d16d)
 
 ## Installation
-Copy tahskr.html and the tahskr directory to your widget directory. By default, widgets are located in your Documents\Widgets directory.
+Copy tahskr.html and the tahskr directory to your widget directory. By default, widgets are located in your Documents\Widgets directory. You can get the files from the latest [release](https://github.com/mufaka/TahskrWinWidget/releases/tag/v1.0).
 
 ![image](https://github.com/mufaka/TahskrWinWidget/assets/8632538/caccbd72-0bbb-4fab-99a4-12b4254e5295)
 
